@@ -1,0 +1,6 @@
+C:\Users\AcademyPgh\PaulsProjects\Csharp\MyGardenBox\obj\Debug\MyGardenBox.csprojAssemblyReference.cache
+C:\Users\AcademyPgh\PaulsProjects\Csharp\MyGardenBox\bin\Debug\MyGardenBox.exe.config
+C:\Users\AcademyPgh\PaulsProjects\Csharp\MyGardenBox\bin\Debug\MyGardenBox.exe
+C:\Users\AcademyPgh\PaulsProjects\Csharp\MyGardenBox\bin\Debug\MyGardenBox.pdb
+C:\Users\AcademyPgh\PaulsProjects\Csharp\MyGardenBox\obj\Debug\MyGardenBox.exe
+C:\Users\AcademyPgh\PaulsProjects\Csharp\MyGardenBox\obj\Debug\MyGardenBox.pdb
